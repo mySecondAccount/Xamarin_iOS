@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="TipCalculatorAndroid/TipCalculatorAndroid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (Lollipop)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TipCalculatorAndroid/MainActivity.cs">
+    <Files>
+      <File FileName="TipCalculatorAndroid/MainActivity.cs" Line="33" Column="4" />
+      <File FileName="TipCalculatorAndroid/Resources/Resource.designer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mlee1026/Documents/Xamarin_iOS/TipCalculatorAndroid/TipCalculatorAndroid/MainActivity.cs" line="14" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TipCalculatorAndroid AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

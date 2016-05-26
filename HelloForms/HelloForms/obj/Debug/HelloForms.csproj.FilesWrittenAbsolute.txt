@@ -1,0 +1,7 @@
+/Users/mlee1026/Documents/Xamarin_iOS/HelloForms/HelloForms/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/mlee1026/Documents/Xamarin_iOS/HelloForms/HelloForms/bin/Debug/HelloForms.dll.mdb
+/Users/mlee1026/Documents/Xamarin_iOS/HelloForms/HelloForms/bin/Debug/HelloForms.dll
+/Users/mlee1026/Documents/Xamarin_iOS/HelloForms/HelloForms/obj/Debug/HelloForms.dll
+/Users/mlee1026/Documents/Xamarin_iOS/HelloForms/HelloForms/obj/Debug/HelloForms.dll.mdb
+/Users/mlee1026/Documents/Xamarin_iOS/HelloForms/HelloForms/bin/Debug/Xamarin.Forms.Core.dll
+/Users/mlee1026/Documents/Xamarin_iOS/HelloForms/HelloForms/bin/Debug/Xamarin.Forms.Xaml.dll

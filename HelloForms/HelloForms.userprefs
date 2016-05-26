@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="iOS/HelloForms.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloForms/HelloForms.cs">
+    <Files>
+      <File FileName="iOS/AppDelegate.cs" Line="4" Column="1" />
+      <File FileName="Droid/MainActivity.cs" Line="19" Column="4" />
+      <File FileName="HelloForms/HelloForms.cs" Line="14" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

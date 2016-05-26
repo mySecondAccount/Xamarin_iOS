@@ -1,0 +1,11 @@
+/Users/mlee1026/Documents/Xamarin_iOS/TipCalculatorAndroid/TipCalculatorAndroid/obj/Debug/assemblies/TipCalculatorAndroid.dll
+/Users/mlee1026/Documents/Xamarin_iOS/TipCalculatorAndroid/TipCalculatorAndroid/obj/Debug/assemblies/System.dll
+/Users/mlee1026/Documents/Xamarin_iOS/TipCalculatorAndroid/TipCalculatorAndroid/obj/Debug/assemblies/System.Xml.dll
+/Users/mlee1026/Documents/Xamarin_iOS/TipCalculatorAndroid/TipCalculatorAndroid/obj/Debug/assemblies/Mono.Android.dll
+/Users/mlee1026/Documents/Xamarin_iOS/TipCalculatorAndroid/TipCalculatorAndroid/obj/Debug/assemblies/Xamarin.Android.Support.v13.dll
+/Users/mlee1026/Documents/Xamarin_iOS/TipCalculatorAndroid/TipCalculatorAndroid/obj/Debug/assemblies/Xamarin.Android.Support.v4.dll
+/Users/mlee1026/Documents/Xamarin_iOS/TipCalculatorAndroid/TipCalculatorAndroid/obj/Debug/assemblies/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/mlee1026/Documents/Xamarin_iOS/TipCalculatorAndroid/TipCalculatorAndroid/obj/Debug/assemblies/System.Core.dll
+/Users/mlee1026/Documents/Xamarin_iOS/TipCalculatorAndroid/TipCalculatorAndroid/obj/Debug/assemblies/mscorlib.dll
+/Users/mlee1026/Documents/Xamarin_iOS/TipCalculatorAndroid/TipCalculatorAndroid/obj/Debug/assemblies/System.Runtime.Serialization.dll
+/Users/mlee1026/Documents/Xamarin_iOS/TipCalculatorAndroid/TipCalculatorAndroid/obj/Debug/assemblies/System.ServiceModel.Internals.dll

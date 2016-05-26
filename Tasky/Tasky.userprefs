@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="TaskyiOS/TaskyiOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskyAndroid/HomeScreen.cs">
+    <Files>
+      <File FileName="TaskySharedCode/TodoDatabaseADO.cs" Line="97" Column="5" />
+      <File FileName="TaskySharedCode/TodoItem.cs" Line="13" Column="3" />
+      <File FileName="TaskySharedCode/TodoItemManager.cs" Line="24" Column="3" />
+      <File FileName="TaskyAndroid/HomeScreen.cs" Line="15" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
