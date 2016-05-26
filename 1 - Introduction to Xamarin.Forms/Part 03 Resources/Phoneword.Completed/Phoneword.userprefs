@@ -1,6 +1,16 @@
 ﻿<Properties StartupItem="Phoneword/Phoneword.Droid/Phoneword.Droid.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (Lollipop)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Phoneword/Phoneword.iOS/PhoneDialer.iOS.cs">
+    <Files>
+      <File FileName="Phoneword/Phoneword.Droid/MainActivity.cs" Line="22" Column="6" />
+      <File FileName="Phoneword/Phoneword/MainPage.cs" Line="65" Column="5" />
+      <File FileName="Phoneword/Phoneword/PhoneTranslator.cs" Line="45" Column="31" />
+      <File FileName="Phoneword/Phoneword/App.cs" Line="1" Column="1" />
+      <File FileName="Phoneword/Phoneword/packages.config" Line="1" Column="1" />
+      <File FileName="Phoneword/Phoneword.iOS/PhoneDialer.iOS.cs" Line="18" Column="2" />
+      <File FileName="Phoneword/Phoneword.Droid/PhoneDialer.Droid.cs" Line="16" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
