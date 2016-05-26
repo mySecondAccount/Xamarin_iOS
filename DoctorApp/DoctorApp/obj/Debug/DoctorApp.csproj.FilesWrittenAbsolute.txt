@@ -1,0 +1,7 @@
+/Users/mlee1026/Documents/Xamarin_iOS/DoctorApp/DoctorApp/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/mlee1026/Documents/Xamarin_iOS/DoctorApp/DoctorApp/bin/Debug/Xamarin.Forms.Core.dll
+/Users/mlee1026/Documents/Xamarin_iOS/DoctorApp/DoctorApp/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/mlee1026/Documents/Xamarin_iOS/DoctorApp/DoctorApp/bin/Debug/DoctorApp.dll.mdb
+/Users/mlee1026/Documents/Xamarin_iOS/DoctorApp/DoctorApp/bin/Debug/DoctorApp.dll
+/Users/mlee1026/Documents/Xamarin_iOS/DoctorApp/DoctorApp/obj/Debug/DoctorApp.dll
+/Users/mlee1026/Documents/Xamarin_iOS/DoctorApp/DoctorApp/obj/Debug/DoctorApp.dll.mdb
